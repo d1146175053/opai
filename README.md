@@ -3,8 +3,7 @@
 <div style="font-size: 1.5rem;">
   <a href="./README.md">中文</a> |
   <a href="./README.en.md">English</a>
-   <a href="https://chat1.binjie.site:7777/">[DEMO]国内服务器镜像（仅境内可访问）</a>
-   <a href="https://chat.yqcloud.top/">[DEMO]cloudflare镜像（境内境外都可访问）</a>
+   <a href="http://172.247.34.158:3002/#/">[DEMO]国内服务器镜像（仅境内可访问）</a>
 </div>
 </br>
 
